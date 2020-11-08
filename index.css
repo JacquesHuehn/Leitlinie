@@ -12,16 +12,17 @@
   .header {
     padding: 80px;
     text-align: left;
+    font-size: 16px;
     background: #f18400;
     color: white;
   }
   
   .thbimg {
-    width: 350px;
+    width: 80%;
     height: auto;
     background-color: white;
     border-color: white;
-    border-width: 15px;
+    border-width: 8px;
     border-style: solid;
     border-radius: 5px;
   }
@@ -115,6 +116,7 @@
     -ms-flex: 70%; /* IE10 */
     flex: 70%;
     padding: 20px;
+    font-size: 16px;
   }
   
   /* Fake image, just for this example */
